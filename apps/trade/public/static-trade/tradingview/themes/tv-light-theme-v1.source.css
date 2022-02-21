@@ -1,0 +1,136 @@
+html, body {
+  background: #fff none repeat scroll 0 0 !important;
+}
+
+#library-container {
+  border: none !important;
+  background: transparent !important;
+}
+
+.tv-side-toolbar {
+  border: none !important;
+}
+
+.onchart-tv-logo {
+  transform: scale(.9) !important;
+  opacity: .8 !important;
+  background: none !important;
+}
+
+.onchart-tv-logo.expanded .wrapper,
+.onchart-tv-logo .wrapper {
+    padding: 0 !important;
+    background: none !important;
+    background-color: none !important;
+}
+
+.chart-page .chart-container {
+  background-color: #fff !important;
+  border-color: #fff !important;
+}
+
+.header-chart-panel {
+  background-color: #fff !important;
+}
+
+.tv-side-toolbar {
+  background-color: #fff !important;
+  border-color: #fff !important;
+  color: #999 !important;
+}
+
+.tv-side-toolbar .tools-group:not(:first-child):not(.no-delimiter)::before {
+  background-color: #fff !important;
+}
+
+.tv-side-toolbar .tools-group .button:active:not(.subgroup),
+.tv-side-toolbar .tools-group .button.active:not(.subgroup),
+.tv-side-toolbar .tools-group .button.selected:not(.subgroup),
+.properties-toolbar .tools-group .button:active,
+.properties-toolbar .tools-group .button.active,
+.drawing-favorites-toolbar .tools-group .button:active,
+.drawing-favorites-toolbar .tools-group .button.active,
+.tv-side-toolbar .tools-group .button.selected .main,
+.tv-side-toolbar .tools-group .button:active .side,
+.tv-side-toolbar .tools-group .button.active .side {
+  background-color: #fff !important;
+}
+
+.tv-side-toolbar .tools-group .button .side {
+  background-color: #fff !important;
+  border-color: #fff !important;
+}
+
+.tv-main-panel {
+  background-color: #fff !important;
+}
+
+.chart-controls-bar {
+  background: #fff !important;
+}
+
+input.symbol-edit,
+.symbol-search-dialog input {
+  background-color: #fff !important;
+  border-color: #fff !important;
+  color: #aaa !important;
+}
+
+.favored-list-container span {
+    background-color: #fff !important;
+    border-color: #fff !important;
+    color: #aaa !important;
+}
+
+.header-chart-panel .button,
+.hotlist-controls .button,
+.symbol-edit-widget .button,
+.bottom-widgetbar-content.backtesting .button {
+    background-color: #eff1f2 !important;
+    border-color: #eff1f2 !important;
+    color: #999 !important;
+}
+
+.header-chart-panel .button.disabled,
+.header-chart-panel .button.disabled:active,
+.header-chart-panel .button.disabled.active {
+    background: #eff1f2 none repeat scroll 0 0 !important;
+    border-color: #eff1f2 !important;
+    color: #999 !important;
+}
+
+.layout-toggle-container .tv-button {
+    background-color: #eff1f2 !important;
+    border-color: #eff1f2 !important;
+}
+
+
+
+
+/* OVERRIDES! */
+
+a.properties-tabs-label {
+  padding: 10px 0 !important;
+}
+
+._tv-dialog-title ._tv-dialog-title-close,
+._tv-dialog-title ._tv-dialog-title-minimize {
+  top: 7px !important;
+}
+
+.tv-tabs {
+  height: 37px;
+}
+
+.tv-tabs__tab {
+  height: 35px;
+  padding: 0 !important;
+}
+
+._tv-dialog-content .main-properties {
+  padding: 10px 14px !important;
+}
+
+
+
+

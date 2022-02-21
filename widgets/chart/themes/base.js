@@ -1,0 +1,16 @@
+export default {
+  contentMargin: '20px auto 30px',
+  maxWidth: '1200px',
+  minWidth: '1200px',
+  basictTradePageMaxWidth: '1260px',
+  basictTradePageMinWidth: '1260px',
+  fontSizeSm: '12px',
+  fontSizeMd: '14px',
+  fontSizeLg: '16px',
+  fontSizeXl: '18px',
+  fontSizeXxl: '20px',
+  fontWeightLight: 300,
+  fontWeightRegular: 400,
+  fontWeightMedium: 600,
+  fontWeightBold: 700,
+};

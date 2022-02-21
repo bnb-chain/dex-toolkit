@@ -1,0 +1,19 @@
+{
+  "name": "@dex-kit/context",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "source": "index.tsx",
+  "main": "./index.tsx",
+  "module": "./index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "delay": "^5.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}

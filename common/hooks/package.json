@@ -1,0 +1,12 @@
+{
+  "name": "@dex-kit/hooks",
+  "version": "0.1.0",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "redux": "^4.0.5",
+    "utils": "^0.3.1"
+  }
+}

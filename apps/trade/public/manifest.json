@@ -1,0 +1,9 @@
+{
+  "short_name": "Binance DEX Trading",
+  "name": "Binance DEX Trading",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

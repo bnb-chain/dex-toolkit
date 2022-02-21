@@ -1,0 +1,21 @@
+{
+  "name": "@widget/trades",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "source": "index.tsx",
+  "main": "./index.tsx",
+  "module": "./index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.2.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
