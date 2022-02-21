@@ -1,4 +1,4 @@
-# Binance DEX Kit
+# Binance DEX Toolkit
 
 A repository for maintaining the toolkit used in Binance DEX website. With this toolkit, developers
 can easily build a trading page with public Binance DEX APIs. Developers can also choose specific
@@ -62,11 +62,11 @@ brew install yarn
 npm install --global yarn
 ```
 
-Next: install and run dex-kit.
+Next: install and run dex-toolkit.
 
 ```bash
-git clone https://github.com/binance-chain/dex-kit.git
-cd dex-kit
+git clone https://github.com/binance-chain/dex-toolkit.git
+cd dex-toolkit
 yarn install
 yarn start:trade:m
 ```
@@ -122,7 +122,7 @@ For overriding values, please check our honeycomb
 
 ## License
 
-Copyright by Binance. All `dex-kit` packages are released under the MIT license.
+Copyright by Binance. All `dex-toolkit` packages are released under the MIT license.
 
 ## TODO
 
